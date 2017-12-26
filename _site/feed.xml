@@ -3,10 +3,10 @@
   <channel>
     <title>Luqh Blog</title>
     <description></description>
-    <link>http://huangxuan.me/</link>
-    <atom:link href="http://huangxuan.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 27 Dec 2017 02:03:54 +0800</pubDate>
-    <lastBuildDate>Wed, 27 Dec 2017 02:03:54 +0800</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 27 Dec 2017 02:30:57 +0800</pubDate>
+    <lastBuildDate>Wed, 27 Dec 2017 02:30:57 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -21,8 +21,8 @@ jekyll serve --watch
 
 </description>
         <pubDate>Wed, 27 Dec 2017 00:00:00 +0800</pubDate>
-        <link>http://huangxuan.me/2017/12/27/js-version/</link>
-        <guid isPermaLink="true">http://huangxuan.me/2017/12/27/js-version/</guid>
+        <link>/2017/12/27/js-version/</link>
+        <guid isPermaLink="true">/2017/12/27/js-version/</guid>
         
         <category>Jekyll</category>
         
