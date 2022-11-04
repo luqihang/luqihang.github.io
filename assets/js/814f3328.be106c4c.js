@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluqh_blog=self.webpackChunkluqh_blog||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"linux/02-process","permalink":"/blog/linux/02-process"},{"title":"Welcome","permalink":"/blog/welcome"}]}')}}]);
