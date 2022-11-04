@@ -15,6 +15,7 @@ const config = {
   favicon: 'https://github.com/luqihang.png',
   organizationName: 'luqihang', // Usually your GitHub org/user name.
   projectName: 'luqihang.github.io', // Usually your repo name.
+  deploymentBranch: "gh-pages",
   trailingSlash: false,
   presets: [
     [
@@ -24,13 +25,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/luqihang/luqihang.github.io',
+          editUrl: 'https://github.com/luqihang/luqihang.github.io/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/luqihang/luqihang.github.io',
+            'https://github.com/luqihang/luqihang.github.io/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
