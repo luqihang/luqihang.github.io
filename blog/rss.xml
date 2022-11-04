@@ -4,7 +4,7 @@
         <title>luqh blog Blog</title>
         <link>https://luqihang.github.io/blog</link>
         <description>luqh blog Blog</description>
-        <lastBuildDate>Fri, 04 Nov 2022 06:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 06:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[linux/02-process]]></title>
             <link>https://luqihang.github.io/blog/linux/02-process</link>
             <guid>/linux/02-process</guid>
-            <pubDate>Fri, 04 Nov 2022 06:08:51 GMT</pubDate>
+            <pubDate>Fri, 04 Nov 2022 06:11:49 GMT</pubDate>
             <description><![CDATA[进程]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="进程">进程<a class="hash-link" href="#进程" title="Direct link to heading">​</a></h2>]]></content:encoded>
         </item>
