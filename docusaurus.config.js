@@ -8,14 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'luqh blog',
   tagline: 'luqh blog',
-  url: 'https://blog.luqh.top',
+  url: 'https://luqihang.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://github.com/luqihang.png',
-  organizationName: 'luqh', // Usually your GitHub org/user name.
-  projectName: 'blog', // Usually your repo name.
-
+  organizationName: 'luqihang', // Usually your GitHub org/user name.
+  projectName: 'luqihang.github.io', // Usually your repo name.
+  trailingSlash: false,
   presets: [
     [
       'classic',
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/luqihang/blog',
+          editUrl: 'https://github.com/luqihang/docs',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/luqihang/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
