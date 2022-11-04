@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luqihang.github.io/blog</id>
+    <title>luqh blog Blog</title>
+    <updated>2022-02-21T06:34:00.889Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://luqihang.github.io/blog"/>
+    <subtitle>luqh blog Blog</subtitle>
+    <icon>https://luqihang.github.io/https://github.com/luqihang.png</icon>
+    <entry>
+        <title type="html"><![CDATA[linux/02-process]]></title>
+        <id>/linux/02-process</id>
+        <link href="https://luqihang.github.io/blog/linux/02-process"/>
+        <updated>2022-02-21T06:34:00.889Z</updated>
+        <summary type="html"><![CDATA[进程]]></summary>
+        <content type="html"><![CDATA[<h2>进程</h2>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://luqihang.github.io/blog/welcome"/>
+        <updated>2022-01-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello World]]></summary>
+        <content type="html"><![CDATA[<p>Hello World</p>]]></content>
+        <author>
+            <name>Lu Qihang</name>
+            <uri>https://github.com/luqihang</uri>
+        </author>
+    </entry>
+</feed>

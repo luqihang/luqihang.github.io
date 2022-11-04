@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>luqh blog Blog</title>
+        <link>https://luqihang.github.io/blog</link>
+        <description>luqh blog Blog</description>
+        <lastBuildDate>Mon, 21 Feb 2022 06:34:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[linux/02-process]]></title>
+            <link>https://luqihang.github.io/blog/linux/02-process</link>
+            <guid>/linux/02-process</guid>
+            <pubDate>Mon, 21 Feb 2022 06:34:00 GMT</pubDate>
+            <description><![CDATA[进程]]></description>
+            <content:encoded><![CDATA[<h2>进程</h2>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://luqihang.github.io/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello World]]></description>
+            <content:encoded><![CDATA[<p>Hello World</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
