@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/luqihang/docs',
+          editUrl: 'https://github.com/luqihang/luqihang.github.io',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/luqihang/blog',
+            'https://github.com/luqihang/luqihang.github.io',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -57,7 +57,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/luqihang/blog',
+            href: 'https://github.com/luqihang/luqihang.github.io',
             label: 'GitHub',
             position: 'right',
           },
